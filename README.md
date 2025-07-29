@@ -26,5 +26,6 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Abd-Elrahman-hany-Rawash/Problem-Solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abd-Elrahman-hany-Rawash/Problem-Solving/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
