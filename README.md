@@ -23,4 +23,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abd-Elrahman-hany-Rawash/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Abd-Elrahman-hany-Rawash/Problem-Solving/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
