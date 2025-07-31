@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Abd-Elrahman-hany-Rawash/Problem-Solving/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abd-Elrahman-hany-Rawash/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abd-Elrahman-hany-Rawash/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Abd-Elrahman-hany-Rawash/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/Abd-Elrahman-hany-Rawash/Problem-Solving/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abd-Elrahman-hany-Rawash/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Abd-Elrahman-hany-Rawash/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/Abd-Elrahman-hany-Rawash/Problem-Solving/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
