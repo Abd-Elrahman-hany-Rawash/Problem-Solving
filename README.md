@@ -12,3 +12,19 @@ Each problem is organized in its own folder and contains:
 
 ## 📌 Note
 This repository is continuously updated as I solve more problems. Feedback and suggestions are always welcome!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Abd-Elrahman-hany-Rawash/Problem-Solving/tree/master/0055-jump-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Abd-Elrahman-hany-Rawash/Problem-Solving/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Abd-Elrahman-hany-Rawash/Problem-Solving/tree/master/0055-jump-game) |
+<!---LeetCode Topics End-->
