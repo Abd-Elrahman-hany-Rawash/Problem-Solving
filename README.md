@@ -39,4 +39,8 @@ This repository is continuously updated as I solve more problems. Feedback and s
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abd-Elrahman-hany-Rawash/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Abd-Elrahman-hany-Rawash/Problem-Solving/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
