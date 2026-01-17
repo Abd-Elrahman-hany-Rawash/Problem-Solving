@@ -43,4 +43,12 @@ This repository is continuously updated as I solve more problems. Feedback and s
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Abd-Elrahman-hany-Rawash/Problem-Solving/tree/master/0182-duplicate-emails) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Abd-Elrahman-hany-Rawash/Problem-Solving/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Abd-Elrahman-hany-Rawash/Problem-Solving/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
